@@ -5,11 +5,12 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #00539f;
-  text-shadow: 3px 3px 1px red;
+  color: #1c47bd;
+  text-shadow: 3px 3px 1px rgb(104, 235, 98);
 }
 H2 {
    text-align: center;
+   color: rgb(55, 94, 211);
 }
 P {
   color: green;
@@ -34,7 +35,7 @@ img {
   display: block;
   margin: 50 auto;
   width: 800px;
-  Height: 500px
+  Height: 800px
 }
 
  
